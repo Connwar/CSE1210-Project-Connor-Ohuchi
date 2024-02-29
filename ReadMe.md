@@ -1,4 +1,4 @@
-# My Simple GitHub Site
+# The Coolest Github Page Around :^O
 
 This repository contains files for a simple GitHub site demonstrating HTML, CSS, and Markdown usage for GitHub Pages.
 
