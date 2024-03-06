@@ -6,6 +6,7 @@ This repository contains files for a simple GitHub site demonstrating HTML, CSS,
 
 - [Home](index.html)
 - [About](about.html)
+- [Theory](theory.html)
 
 ## Features
 
