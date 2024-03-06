@@ -1,7 +1,7 @@
 # **The Best 3 Pokemon Ever**
-**1.** _Torterra_
-**2.** _Rayquaza_
-**3.** _Giratina_
+1. _Torterra_
+2. _Rayquaza_
+3. _Giratina_
 
 ## There is a Pokemon who looks just like me
 * **Pangoro**
