@@ -5,4 +5,4 @@
 
 ## There is a Pokemon who looks just like me
 * Pangoro
-*He is a black and white panda who looks pretty freaking cool
+* He is a black and white panda who looks pretty freaking cool
