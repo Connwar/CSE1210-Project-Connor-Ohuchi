@@ -6,3 +6,4 @@
 ## There is a Pokemon who looks just like me
 * Pangoro
 * He is a black and white panda who looks pretty freaking cool
+* He is also 6'11", just like me
