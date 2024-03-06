@@ -4,4 +4,4 @@
 3. Giratina
 
 ## There is a Pokemon who looks just like me
-* 
+* Pan
