@@ -31,3 +31,4 @@
 15. My interests include technology, language, and education, along with a passion for learning and problem-solving.
 
 16. CSE1210 could connect to my future occupational choices by providing foundational knowledge and skills in computer science, which could be applicable in various fields such as software development, data analysis, or cybersecurity.
+
