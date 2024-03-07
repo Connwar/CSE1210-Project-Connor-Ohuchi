@@ -1,4 +1,4 @@
-
+# The Theory Questions
 1. The internet backbone refers to the high-speed data transmission lines that connect various networks and facilitate data exchange on a large scale.
 
 2. Clients are devices that request and consume services or data from servers, while servers are computers or systems that provide services or data to clients upon request.
